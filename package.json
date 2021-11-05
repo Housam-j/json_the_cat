@@ -1,0 +1,22 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Housam-j/json_the_cat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Housam-j/json_the_cat/issues"
+  },
+  "homepage": "https://github.com/Housam-j/json_the_cat#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
